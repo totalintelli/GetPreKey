@@ -1,0 +1,6 @@
+D:\Projects\GetPreKey\GetPreKey\bin\Debug\GetPreKey.exe.config
+D:\Projects\GetPreKey\GetPreKey\bin\Debug\GetPreKey.exe
+D:\Projects\GetPreKey\GetPreKey\bin\Debug\GetPreKey.pdb
+D:\Projects\GetPreKey\GetPreKey\obj\Debug\GetPreKey.csprojResolveAssemblyReference.cache
+D:\Projects\GetPreKey\GetPreKey\obj\Debug\GetPreKey.exe
+D:\Projects\GetPreKey\GetPreKey\obj\Debug\GetPreKey.pdb
